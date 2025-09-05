@@ -35,7 +35,7 @@ Peak layoff years correspond to economic slowdowns & funding shortages.
 
 How to Use
 Clone the repository:
-git clone 
+git clone https://github.com/Ananya-debug/Employee-Reduction-Trends.git
 Import the dataset into your MySQL instance.
 
 Run the queries in sequence:
